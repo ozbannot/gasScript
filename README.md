@@ -1,2 +1,2 @@
 # gasBirthdayScript
-create Google App Script NotififyLINE
+create Google Apps Script NotififyLINE
