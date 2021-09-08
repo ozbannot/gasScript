@@ -1,2 +1,2 @@
 # gasScript
-create Google Apps Script NotififyLINE
+create Google Apps Script  option NotififyLINE
